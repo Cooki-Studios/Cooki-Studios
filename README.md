@@ -11,7 +11,7 @@ I am currently working on a new website! :globe_with_meridians: You can check it
   </summary>
   
   ```javascript
-    console.log("You're not meant to be here! :raised_eyebrow:");
+    console.log("You're not meant to be here!");
   ```
 </details>
 
