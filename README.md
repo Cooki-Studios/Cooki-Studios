@@ -5,7 +5,7 @@ I am currently working on a new website! 🌐 You can check it out [HERE](https:
 <br>
 
 <details>
-<summary>><b>My section header in bold</b></summary>
+<summary> > <b>My section header in bold</b></summary>
   Any folded content here. It requires an empty line just above it.
   ```javascript
     console.log("WELCOME!");
