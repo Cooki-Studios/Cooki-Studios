@@ -10,9 +10,9 @@ I am currently working on a new website! 🌐 You can check it out [HERE](https:
     there
   </summary>
   
-  Any folded content here. It requires an empty line just above it.
+  <br>
   ```javascript
-    console.log("WELCOME!");
+    console.log("You're not meant to be here! 🤨");
   ```
 </details>
 
