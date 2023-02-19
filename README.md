@@ -14,6 +14,10 @@ hello
     console.log("You're not meant to be here!");
   ```
 </details>
-  
-people
 </li>
+people
+
+<style>
+ul {list-style-type: circle;}
+
+</style>
