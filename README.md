@@ -7,8 +7,7 @@ I am currently working on a new website! 🌐 You can check it out [HERE](https:
 >
 <details>
   <summary>
-    
-    - there
+    there
   </summary>
   
   Any folded content here. It requires an empty line just above it.
