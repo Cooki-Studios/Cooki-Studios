@@ -16,3 +16,7 @@ I am currently working on a new website! :globe_with_meridians: You can check it
 </details>
 
 - people
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
