@@ -5,7 +5,6 @@ I am currently working on a new website! :globe_with_meridians: You can check it
 <br>
 <li>
 hello
->
 <details>
   <summary>
     there
