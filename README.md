@@ -6,7 +6,7 @@ I am currently working on a new website! 🌐 You can check it out [HERE](https:
 
 <details>
 ><summary>
-  __My section header in bold__
+  **My section header in bold**
   </summary>
   Any folded content here. It requires an empty line just above it.
   ```javascript
