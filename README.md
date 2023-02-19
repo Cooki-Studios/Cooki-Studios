@@ -19,5 +19,4 @@ people
 
 <style>
 ul {list-style-type: circle;}
-
 </style>
