@@ -15,4 +15,5 @@ I am currently working on a new website! 🌐 You can check it out [HERE](https:
     console.log("WELCOME!");
   ```
 </details>
+
 - people
