@@ -5,8 +5,8 @@ I am currently working on a new website! 🌐 You can check it out [HERE](https:
 <br>
 
 <details>
-<summary>
-  >My section header in bold
+><summary>
+  __My section header in bold__
   </summary>
   Any folded content here. It requires an empty line just above it.
   ```javascript
