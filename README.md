@@ -3,7 +3,8 @@
 __Hey, it's Cooki! :wave:__
 I am currently working on a new website! :globe_with_meridians: You can check it out [HERE](https://cooki-studios.github.io)!
 <br>
-- hello
+<li>
+hello
 >
 <details>
   <summary>
@@ -14,9 +15,5 @@ I am currently working on a new website! :globe_with_meridians: You can check it
     console.log("You're not meant to be here!");
   ```
 </details>
-
-- people
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+people
+</li>
